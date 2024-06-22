@@ -7,10 +7,10 @@ const App = () => {
         <h1>Hello Dojo!</h1>
         <h2>Things I need to do:</h2>
         <ul>
-         <li>Learn React</li> 
-         <li>Climb Mt. Everets</li> 
-         <li>Run a marathon</li> 
-         <li>Feeds the dogs</li> 
+          <li>Learn React</li> 
+          <li>Climb Mt. Everets</li> 
+          <li>Run a marathon</li> 
+          <li>Feeds the dogs</li> 
         </ul>
     </div>
   );
